@@ -1,6 +1,6 @@
 
 
-## 🐞 Bug Report
+##  Test Case - Preperation 
 
 - **App PlayStore:** :  [Anny Style](https://styleanny.in/)
 
